@@ -1,1 +1,3 @@
-# AndroidProjects 目前只有一个项目，One简易版，具有听音乐、看文章、日历等功能。
+# AndroidProjects 
+
+该目录包含项目One，具有听音乐、看文章、日历等功能。
